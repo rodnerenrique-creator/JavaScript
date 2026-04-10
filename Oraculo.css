@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #5dd6b8;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#nombreGenerado {
+    font-size: 24px;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+}
